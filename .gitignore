@@ -1,2 +1,4 @@
 /.vscode
 /NetworkTest.sln
+bin/
+obj/
