@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetworkTest/1.0.0": {
+        "runtime": {
+          "NetworkTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

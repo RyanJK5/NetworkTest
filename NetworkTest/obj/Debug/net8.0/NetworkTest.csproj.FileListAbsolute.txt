@@ -1,0 +1,14 @@
+d:\repositories\NetworkTest\NetworkTest\bin\Debug\net8.0\NetworkTest.exe
+d:\repositories\NetworkTest\NetworkTest\bin\Debug\net8.0\NetworkTest.deps.json
+d:\repositories\NetworkTest\NetworkTest\bin\Debug\net8.0\NetworkTest.runtimeconfig.json
+d:\repositories\NetworkTest\NetworkTest\bin\Debug\net8.0\NetworkTest.dll
+d:\repositories\NetworkTest\NetworkTest\bin\Debug\net8.0\NetworkTest.pdb
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\NetworkTest.GeneratedMSBuildEditorConfig.editorconfig
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\NetworkTest.AssemblyInfoInputs.cache
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\NetworkTest.AssemblyInfo.cs
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\NetworkTest.csproj.CoreCompileInputs.cache
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\NetworkTest.dll
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\refint\NetworkTest.dll
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\NetworkTest.pdb
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\NetworkTest.genruntimeconfig.cache
+d:\repositories\NetworkTest\NetworkTest\obj\Debug\net8.0\ref\NetworkTest.dll
